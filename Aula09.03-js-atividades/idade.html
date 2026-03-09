@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Idade</title>
+  </head>
+
+  <body>
+    <h2>Idade</h2>
+
+    <input type="text" id="idade" placeholder="Sua idade" />
+
+    <br /><br />
+
+    <button onclick="idade()">ver idade</button>
+
+    <div id="resultado"></div>
+
+    <script>
+      function idade() {
+        let n1 = Number(document.getElementById("idade").value);
+
+        document.getElementById("resultado").textContent = `sua idade é: ${n1}`;
+      }
+    </script>
+  </body>
+</html>

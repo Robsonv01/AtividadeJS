@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Multiplicação</title>
+  </head>
+
+  <body>
+    <h2>Multiplicação de números</h2>
+
+    <input type="number" id="num1" placeholder="Primeiro número" />
+    <input type="number" id="num2" placeholder="Segundo número" />
+
+    <br /><br />
+
+    <button onclick="multiplicar()">Multiplicar</button>
+
+    <p>Resultado: <span id="resultado"></span></p>
+
+    <script>
+      function multiplicar() {
+        let n1 = Number(document.getElementById("num1").value);
+        let n2 = Number(document.getElementById("num2").value);
+
+        let resultado = n1 * n2;
+
+        document.getElementById("resultado").textContent = resultado;
+      }
+    </script>
+  </body>
+</html>

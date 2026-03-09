@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculadora Simples</title>
+  </head>
+  <body>
+    <h2>Contador</h2>
+
+    <button onclick="contador()">Cliques: <span id="contador">0</span></button>
+
+    <h3>Resultado <span id="Click">0</span></h3>
+    <script>
+      let v = 0;
+      function contador() {
+        v++;
+        document.getElementById("contador").textContent = v;
+      }
+    </script>
+  </body>
+</html>

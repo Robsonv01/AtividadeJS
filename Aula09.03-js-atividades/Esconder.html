@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p id="mensagem">Texo Original</p>
+    <button onclick="text()">Esconder/Mostra</button>
+
+    <script>
+      let t = document.getElementById("mensagem");
+      if (t.style.display === "none") {
+        t.style.display = "block";
+      } else {
+        t.style.display = "none";
+      }
+    </script>
+  </body>
+</html>
