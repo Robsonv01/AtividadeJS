@@ -1,0 +1,210 @@
+QUESTÃO 1 – CONTROLE
+DE ESTOQUE
+
+
+Uma pequena loja registrou a quantidade de produtos vendidos
+no dia:
+
+
+[5, 3, 8, 2, 6]
+
+
+O dono quer:
+
+
+Ver todos os valores no console
+,
+
+Saber o total de produtos vendidos
+
+
+ 
+
+
+QUESTÃO 2 – PROMOÇÃO
+
+
+Uma loja quer aplicar 10% de desconto em todos os produtos.
+
+
+Crie uma função que:
+
+
+Receba o preço
+
+
+Retorne o valor com desconto
+
+
+ 
+
+
+QUESTÃO 3 – CLIENTE
+
+
+Um sistema possui o seguinte cliente:
+
+
+nome: "Maria"
+
+
+idade: 25
+
+
+cidade: "Caxias do Sul"
+
+
+ 
+
+
+Mostre no console:
+
+
+"Cliente Maria mora em Caxias do Sul"
+
+
+ 
+
+
+QUESTÃO 4 – LISTA DE PRESENÇA
+
+
+Uma turma possui os alunos:
+
+
+["Ana", "Bruno", "Carlos",
+"Daniel", "Eva"]
+
+
+ 
+
+
+Mostre:
+
+
+ 
+
+
+Primeiro aluno
+
+
+Último aluno
+
+
+ 
+
+
+QUESTÃO 5 – BOTÃO
+
+
+Crie um botão que ao
+clicar mostre no console:
+
+
+"Sistema iniciado com sucesso"
+
+
+ 
+
+
+QUESTÃO 6 – PEDIDOS
+
+
+Uma loja registrou os valores:
+
+
+[100, 250, 80, 320, 50, 600]
+
+
+Mostre apenas os
+pedidos maiores que 100
+
+
+ 
+
+
+QUESTÃO 7 – VENDAS
+
+
+Valores vendidos no dia:
+
+
+[200, 150, 300, 50]
+
+
+Crie uma função que
+retorne o total vendido
+
+
+ 
+
+
+QUESTÃO 8 – APROVAÇÃO
+
+
+Sistema com alunos:
+
+
+{ nome: "Ana", nota: 8 }
+
+
+{ nome: "Bruno", nota: 5 }
+
+
+{ nome: "Carlos", nota: 7 }
+
+
+{ nome: "Daniel", nota: 4 }
+
+
+ 
+
+
+Mostre apenas alunos
+com nota maior ou igual a 7
+
+
+ 
+
+
+QUESTÃO 9 – INPUT
+
+
+Crie:
+
+
+Um input
+
+
+Um botão
+
+
+ 
+
+
+Ao clicar:
+
+
+Mostrar um alert com:
+
+
+"Você digitou: X"
+
+
+ 
+
+
+QUESTÃO 10 – PREÇOS
+
+
+Preços:
+
+
+[10, 20, 30, 40]
+
+
+
+
+
+Crie um novo array
+com valores dobrados
